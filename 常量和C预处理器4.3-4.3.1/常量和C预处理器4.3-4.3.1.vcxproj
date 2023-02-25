@@ -24,6 +24,7 @@
     <ProjectGuid>{be8daa33-18fe-43d4-b393-29be74dcd27c}</ProjectGuid>
     <RootNamespace>常量和C预处理器43431</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>04.3.1常量和C预处理器</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

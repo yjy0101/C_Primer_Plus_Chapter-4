@@ -24,6 +24,7 @@
     <ProjectGuid>{6d544d84-52bb-4c37-8cb8-2b8f6c724702}</ProjectGuid>
     <RootNamespace>strlen函数423</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>04.2.3strlen()函数</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
