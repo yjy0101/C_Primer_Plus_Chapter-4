@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bb6ab266-901e-439c-9a36-7ec8aad77e2b}</ProjectGuid>
-    <RootNamespace>明示常量432</RootNamespace>
+    <ProjectGuid>{cc55e7f0-2698-40f5-990c-377dae7561ad}</ProjectGuid>
+    <RootNamespace>printf和scanf44442</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>04.3.2明示常量</ProjectName>
+    <ProjectName>04.4.1-4.4.2printf()和scanf()</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="defines.cpp" />
+    <ClCompile Include="printout.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
