@@ -3,27 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "前导程序4.1-4.2.1", "第四章字符串和格式化输出_输入\第四章字符串和格式化输出_输入.vcxproj", "{F0B5DDB9-8798-47AF-A24B-C6337CDD21A0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.2.1前导程序", "第四章字符串和格式化输出_输入\第四章字符串和格式化输出_输入.vcxproj", "{F0B5DDB9-8798-47AF-A24B-C6337CDD21A0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用字符串4.2.2", "使用字符串4.2.2\使用字符串4.2.2.vcxproj", "{AD2F1CD1-E0B1-4AFD-9545-C179BBE1F791}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.2.2使用字符串", "使用字符串4.2.2\使用字符串4.2.2.vcxproj", "{AD2F1CD1-E0B1-4AFD-9545-C179BBE1F791}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strlen()函数4.2.3", "strlen()函数4.2.3\strlen()函数4.2.3.vcxproj", "{6D544D84-52BB-4C37-8CB8-2B8F6C724702}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.2.3strlen()函数", "strlen()函数4.2.3\strlen()函数4.2.3.vcxproj", "{6D544D84-52BB-4C37-8CB8-2B8F6C724702}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常量和C预处理器4.3-4.3.1", "常量和C预处理器4.3-4.3.1\常量和C预处理器4.3-4.3.1.vcxproj", "{BE8DAA33-18FE-43D4-B393-29BE74DCD27C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.3.1常量和C预处理器", "常量和C预处理器4.3-4.3.1\常量和C预处理器4.3-4.3.1.vcxproj", "{BE8DAA33-18FE-43D4-B393-29BE74DCD27C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "明示常量4.3.2", "明示常量4.3.2\明示常量4.3.2.vcxproj", "{BB6AB266-901E-439C-9A36-7EC8AAD77E2B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.3.2明示常量", "明示常量4.3.2\明示常量4.3.2.vcxproj", "{BB6AB266-901E-439C-9A36-7EC8AAD77E2B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printf()和scanf()4.4-4.4.2", "printf()和scanf()4.4-4.4.2\printf()和scanf()4.4-4.4.2.vcxproj", "{CC55E7F0-2698-40F5-990C-377DAE7561AD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.1-4.4.2printf()和scanf()", "printf()和scanf()4.4-4.4.2\printf()和scanf()4.4-4.4.2.vcxproj", "{CC55E7F0-2698-40F5-990C-377DAE7561AD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printf()的转换说明修饰符4.4.3", "printf()的转换说明修饰符4.4.3\printf()的转换说明修饰符4.4.3.vcxproj", "{4BB91257-00FD-445B-A6CF-C6BBF118A22D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.3printf()的转换说明修饰符", "printf()的转换说明修饰符4.4.3\printf()的转换说明修饰符4.4.3.vcxproj", "{4BB91257-00FD-445B-A6CF-C6BBF118A22D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学以致用4.4.3", "学以致用4.4.3\学以致用4.4.3.vcxproj", "{749D44F8-A16C-441B-8678-28FBBACA1768}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.3学以致用", "学以致用4.4.3\学以致用4.4.3.vcxproj", "{749D44F8-A16C-441B-8678-28FBBACA1768}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "转换说明的意义4.4.4(转换不匹配)", "转换说明的意义4.4.4\转换说明的意义4.4.4.vcxproj", "{3BEE0D30-B5C4-4A14-B572-55F6917EB0B0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.4.1转换说明的意义(转换不匹配)", "转换说明的意义4.4.4\转换说明的意义4.4.4.vcxproj", "{3BEE0D30-B5C4-4A14-B572-55F6917EB0B0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "转换说明的意义4.4.4（printf()的返回值）", "转换说明的意义4.4.4（printf()的返回值）\转换说明的意义4.4.4（printf()的返回值）.vcxproj", "{C178279D-7F9B-4DF7-B13C-72ECDE347E47}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.4.2转换说明的意义（printf()的返回值）", "转换说明的意义4.4.4（printf()的返回值）\转换说明的意义4.4.4（printf()的返回值）.vcxproj", "{C178279D-7F9B-4DF7-B13C-72ECDE347E47}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.4.4(打印较长的字符串）", "4.4.4(打印较长的字符串）\4.4.4(打印较长的字符串）.vcxproj", "{1C6A9092-2E0B-4FA3-8D83-B017A700B0B4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.4.3(打印较长的字符串）", "4.4.4(打印较长的字符串）\4.4.4(打印较长的字符串）.vcxproj", "{1C6A9092-2E0B-4FA3-8D83-B017A700B0B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.5使用scanf()", "04.4.5使用scanf()\04.4.5使用scanf().vcxproj", "{529CF089-7FC8-4E44-92CC-88F028559144}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4.6printf()和scanf()的(星号)修饰符", "04.4.6printf()和scanf()的(星号)修饰符\04.4.6printf()和scanf()的(星号)修饰符.vcxproj", "{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +125,22 @@ Global
 		{1C6A9092-2E0B-4FA3-8D83-B017A700B0B4}.Release|x64.Build.0 = Release|x64
 		{1C6A9092-2E0B-4FA3-8D83-B017A700B0B4}.Release|x86.ActiveCfg = Release|Win32
 		{1C6A9092-2E0B-4FA3-8D83-B017A700B0B4}.Release|x86.Build.0 = Release|Win32
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Debug|x64.ActiveCfg = Debug|x64
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Debug|x64.Build.0 = Debug|x64
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Debug|x86.ActiveCfg = Debug|Win32
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Debug|x86.Build.0 = Debug|Win32
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Release|x64.ActiveCfg = Release|x64
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Release|x64.Build.0 = Release|x64
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Release|x86.ActiveCfg = Release|Win32
+		{529CF089-7FC8-4E44-92CC-88F028559144}.Release|x86.Build.0 = Release|Win32
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Debug|x64.ActiveCfg = Debug|x64
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Debug|x64.Build.0 = Debug|x64
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Debug|x86.Build.0 = Debug|Win32
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Release|x64.ActiveCfg = Release|x64
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Release|x64.Build.0 = Release|x64
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Release|x86.ActiveCfg = Release|Win32
+		{FDDFB02B-6DCF-47C1-B74D-F574FCB903FC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
