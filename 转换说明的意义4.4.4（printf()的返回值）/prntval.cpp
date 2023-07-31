@@ -9,3 +9,7 @@ int main(void)
 
 	return 0;
 }
+/*
+212 F is water's boiling point.
+The printf() function printed 32 characters.
+*/

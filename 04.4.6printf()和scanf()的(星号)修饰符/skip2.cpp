@@ -1,6 +1,6 @@
 /*skip2.c--跳过输入中的前两个整数*/
 #include<stdio.h>
-int main(void)
+int main01(void)
 {
 	int n;
 

@@ -13,3 +13,8 @@ long string.\n");								//方法二：用反斜杠（\）和Enter键组合来断行。（不推荐）
 
 	return 0;
 }
+/*
+Here's one way to print along string.
+Here's another way to print a long string.
+Here's the newest way to print a long string.
+*/

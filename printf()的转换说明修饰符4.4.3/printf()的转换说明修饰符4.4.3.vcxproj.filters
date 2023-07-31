@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stringf.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="flags.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="floats.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="width.cpp">

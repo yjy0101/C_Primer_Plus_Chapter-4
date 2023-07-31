@@ -10,3 +10,9 @@ int main(void)
 
 	return 0;
 }
+/*
+[Authentic imitation!]
+[    Authentic imitation!]
+[                   Authe]
+[Authe                   ]
+*/
